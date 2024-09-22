@@ -1,0 +1,5 @@
+aug 19 10 pm = done with setting up inputs
+
+aug 26 7 am  = focused on coloring the rectangle and added new fields 
+			   in GamePanel.java
+			 = made an fps counter
